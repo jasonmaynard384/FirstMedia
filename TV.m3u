@@ -1,0 +1,96 @@
+#EXTM3U
+
+
+##########################AnalogTV##########################
+
+#EXTINF:-1 ch-number="1" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch1)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="2" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch2)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="3" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch3)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="4" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch4)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="5" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch5)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="6" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch6)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="7" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch7)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="8" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch8)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="9" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-31
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch9)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="10" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch10)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="11" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-35
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch11)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="12" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch12)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="13" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-39
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch13)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="14" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch14)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="15" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch15)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="16" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch16)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="17" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch17)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="18" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch18)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="19" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-51
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch19)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="20" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch20)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="21" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch21)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="22" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch22)/Stream(04)/index.m3u8
+
+#EXTINF:-1 ch-number="23" tvg-logo="https://raw.githubusercontent.com/JerickQuinones6/Images/refs/heads/master/Televisi.png",C-59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://248.157.147.84:80/Content/HLS/Live/Channel(ch23)/Stream(04)/index.m3u8
